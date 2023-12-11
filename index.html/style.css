@@ -1,0 +1,76 @@
+
+
+.iframe{
+    height: 290px;
+    width: 120px;
+    display: block;
+    position:relative;
+    left: 128px;
+
+}
+.imagee{
+   padding-top: -10px;
+    text-align: center;
+}
+.text{
+    text-align: center;
+    
+   
+}
+header h1{
+text-align: center;
+color: maroon;
+
+}
+footer{
+    text-align:center;
+
+   
+}
+
+.box1{
+ 
+  
+ margin-left: 250px;
+
+
+}
+.box2{
+   
+    margin-left: 100px;
+    margin-top: 150px;
+    
+}
+
+.box3{
+   
+   
+    margin-left: 200px;
+}
+
+
+table{
+    margin-top: -18px;
+   
+}
+
+table th{
+    background-color: white;
+    text-align: left;
+
+}
+
+table td{
+    background-color: white;
+
+
+}
+.box{
+    width: 800;
+    height: 100;
+    
+}
+.container{
+    display: inline-flex;
+}
+
